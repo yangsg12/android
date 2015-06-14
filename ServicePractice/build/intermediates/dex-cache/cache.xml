@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Yang\StudioProjects\ServicePractice\networktest\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\Users\Yang\StudioProjects\ServicePractice\networktest\build\intermediates\pre-dexed\debug\classes-387c7285c091cc309c4d00fb345d2d21b8f522c5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yang\StudioProjects\ServicePractice\networktest\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\jars\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\Users\Yang\StudioProjects\ServicePractice\networktest\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-bfbd7b7c1186cf89d7366dbd870188c4cd943288.jar" />
+    </item>
+    <item
+        jar="C:\My Program Files\Develope Tools\adt-bundle-windows-x86-20130917\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="C:\Users\Yang\StudioProjects\ServicePractice\networktest\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-35b2e59f88cfcc7dd68433af339aef2c895ccbb8.jar" />
+    </item>
+
+</items>
